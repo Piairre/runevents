@@ -12,11 +12,13 @@
     "clsx": "^2.1.1",
     "core-js": "^3.8.3",
     "init": "^0.1.2",
+    "lucide-react": "^0.446.0",
     "lucide-vue-next": "^0.446.0",
     "radix-vue": "^1.9.6",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
